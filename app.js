@@ -1,3 +1,8 @@
+//This is a Budgeting Web Application coded by Arif Howlader. But it is also part of Jonas Schmedtmann's course 
+//on web-development. I also recieved alot of guidance from the forums of that web-development course
+
+
+
 //First Module which is the Module Related to Budget Controller Values
 //We are using the IIFE format to automatically "run" the function
 var budgetController = (function() {
